@@ -1,0 +1,19 @@
+.footer{
+  
+    text-align: center;
+    position:sticky;
+    align-items: center;
+    color:lightblue;
+    column-gap: 1.2rem;
+    text-shadow: 2rem;
+  
+  }
+  .icon a{
+  margin-left: 1rem;
+  color: lightblue;
+  }
+  .footer h4{
+    margin: 1rem;
+    text-shadow: 2rem;
+    font-size: medium;
+  }

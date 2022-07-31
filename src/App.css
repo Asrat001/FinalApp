@@ -1,0 +1,13 @@
+*{
+
+  margin: 0;
+  padding: 0;
+}
+Body {
+
+font-family:'Times New Roman', Times, serif;
+background-color: rgba(4, 61, 68, 0.89);
+text-shadow: 3rem;
+
+}
+
